@@ -1,0 +1,16 @@
+#banner{
+    height: 786px;
+   
+    background-image: url('./5.webp');
+    background-size: cover;
+}
+#shade{
+    height: 786px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+main{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
